@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="797f95e8-9fa7-401f-8555-1503f9999c9d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +39,13 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "ruby.structure.view.model.defaults.configured": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable",
+    "settings.editor.selected.configurable": "rubyLsp",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -63,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1772125115428</updated>
-      <workItem from="1772125116832" duration="290000" />
+      <workItem from="1772125116832" duration="1613000" />
     </task>
     <servers />
   </component>
